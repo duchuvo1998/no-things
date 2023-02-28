@@ -8,10 +8,10 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.center}>
-        <h1 className={styles.center}>No things!</h1>
+        <h1 className={styles.center}>Nothing!</h1>
       </div>
       <div className={styles.center}>
-        <h4 className={styles.center}>Simply no things</h4>
+        <h4 className={styles.center}>Simply not anything</h4>
       </div>
     </main>
   )
